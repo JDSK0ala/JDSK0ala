@@ -19,9 +19,9 @@ I am creating my own solo mod. Currently, it's content remains a secret, but it 
 
 [My Discord Server](https://discord.gg/FbRxshQvnC). This is the place I am most active on, where you can get all the latest news on what I am doing. You can also chat to me here, or via DM's if you want
 
-[Modrinth](https://modrinth.com/user/JDSK0ala). I post my mod downloads here, where they can be downloaded for free
+[Modrinth](https://modrinth.com/user/JDSK0ala). I post downloads for my mods here
 
-[CurseForge](https://www.curseforge.com/members/jdsk0ala/projects), another place where I post mod downloads. I also post bedrock addons here
+[CurseForge](https://www.curseforge.com/members/jdsk0ala/projects), another place where I post downloads for my mods. I also post downloads for my bedrock addons here
 
 [YouTube](https://www.youtube.com/@JDSK0ala). While it currently consists of silly videos, I intend to use it more seriously later. My YouTube Posts will consist of some discord stuff, posted outside of discord
 
