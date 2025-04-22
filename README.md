@@ -1,6 +1,6 @@
 ## Hello hello!
 
-I'm JDSK0ala, but I also go by SKoala. Despite this, most people just get call me Koala. I'm just a guy (He/Him but idrc about what pronouns you use) who currently works on Minecraft related content, both Java Mods and Bedrock Addons
+I'm JDSK0ala, but I also go by SKoala. Despite this, most people just get call me Koala. I'm just a guy who currently works on Minecraft related content, both Java Mods and Bedrock Addons
 
 ## My current (released) work is as follows:
 
