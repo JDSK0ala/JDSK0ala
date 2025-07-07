@@ -28,7 +28,7 @@ I also have other accounts listed in my discord, but the above are the ones your
 
 
 If you read this far, then thankyou. Hopefully there is more to come, sooner rather then later
-(This was last updated on the 22-4-24)
+(This was last updated on the 7-7-25)
 
 <!--
 **JDSK0ala/JDSK0ala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
