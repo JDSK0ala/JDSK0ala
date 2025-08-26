@@ -6,7 +6,7 @@ I'm JDSK0ala, but I also go by SKoala. Despite this, most people just get call m
 
 I contributed some animations to the mod [Dragon Mounts Remastered](https://modrinth.com/mod/dmr)
 
-I co-own a group called the [Dragon Mounts Team](https://github.com/DragonMounts-Team)
+I co-own a group called the [Dragon Mounts Team](https://github.com/DragonMounts-Team), where I am working on a new dragon model and animations (Plus their implementation on DM2's Bedrock port)
 
 ## You can find and follow me on:
 
@@ -26,9 +26,9 @@ I also have a QQ Account. My username there is JDSK0ala and my account number is
 
 I also have other accounts listed in my discord, but the above are the ones your most likely to find useful
 
-
+## Other info
 If you read this far, then thankyou. Hopefully there is more to come, sooner rather then later
-(This was last updated on the 7-7-25)
+(This was last updated on the 26-8-25)
 
 <!--
 **JDSK0ala/JDSK0ala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
