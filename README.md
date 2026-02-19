@@ -22,7 +22,7 @@ I was one of two people to found a group called the [Dragon Mounts Team](https:/
 
 [Twitter](https://x.com/JDSK0ala)... Well ok, I don't know if I will be using that social at all lol. But I mean, I will list it here anyway, so you know it's officially my account
 
-[[Bloger]](https://jdsk0ala.blogspot.com), where I plan post long articles about myself, my mods and just random things that interest me
+[Blogger](https://jdsk0ala.blogspot.com), where I plan post long articles about myself, my mods and just random things that interest me
 
 I also have a QQ Account. My username there is JDSK0ala and my account number is 3080968865
 
